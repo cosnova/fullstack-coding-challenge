@@ -8,7 +8,7 @@ This project contains a demo consisting of a React Single Page Application (SPA)
 
 ## Tasks
 
-Check the list of issues
+Check the list of issues 😉
 
 ## Version Control
 
