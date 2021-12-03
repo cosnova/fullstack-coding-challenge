@@ -1,0 +1,16 @@
+---
+version: "3.8"
+## this file is intended for manual testing only!
+services:
+  checkout:
+    build:
+      context: services
+      dockerfile: Dockerfile
+      target: build
+      args:
+        package: checkout/pkg/cmd/server.go
+        port: 3005
+    ports:
+      - 3005:3005
+    environment:
+      SERVICE_HTTP_PORT: "3005"
