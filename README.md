@@ -41,7 +41,7 @@ Please fork this Repository to start working. Commit your changes in a style as 
 Fork this repository, install the dependencies and start the backend service (make sure your docker service is running).
 
 ```sh
-docker compose up
+docker compose up --build
 ```
 
 In a new terminal, go into `demo-store` folder and start the frontend app.
