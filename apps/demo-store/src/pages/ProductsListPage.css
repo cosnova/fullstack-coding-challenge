@@ -1,0 +1,27 @@
+#hero {
+  max-width: 1600px;
+  height: 32rem;
+  background-image: url("https://cdn.media.amplience.net/i/Cosnova/catrice_plp_lippen_lippenstift_023_pagetitle_backgroundImg_desktop_001?fmt=auto");
+}
+
+.modal {
+  transition: opacity 0.25s ease;
+}
+
+body.modal-active {
+  overflow-x: hidden;
+  overflow-y: visible !important;
+}
+
+.icon {
+  width: auto;
+  height: 18px;
+  overflow: visible;
+  fill: none;
+  fill-rule: evenodd;
+  stroke: currentcolor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.5px;
+  color: inherit;
+}
