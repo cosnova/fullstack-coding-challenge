@@ -8,7 +8,12 @@ This project contains a demo consisting of a React Single Page Application (SPA)
 
 ## Tasks
 
-Check the list of issues 😉
+The first step would be to evaluate how much time you are able/willing to spend in this challenge, set a personal goal and then communicate it back to us.
+For example: 
+  - I will take 2hrs in the next 3 days just to study the code and understand how it works
+  - I will use 1MD to study the code and then solve issue #1 and #2 in the next 3MD
+
+Don't feel pressured to solve as many issues as possible, as the main goal is to see how you administrate your time and your hability to comprenhend an existing code base.
 
 ## Version Control
 
